@@ -1,2 +1,3 @@
-# depom
-benim depom
+# İlk Uygulama
+deneme uygulaması
+
